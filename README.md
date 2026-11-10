@@ -43,30 +43,27 @@ Instead of writing the same header and footer code on every webpage, PHP's `incl
 
 
 
-\✨ Features
+✨ Features
 
 
 
 | Feature | Description |
 
 
-| 🏠 Homepage | Welcoming introduction to AutoZone Plus |
-
-| 🧭 Navigation Bar | Links to different website sections |
-
-| 🔋 Product Listings | Displays automotive products and prices |
-
-| ℹ️ About Us | Provides information about the store |
-
-| 📞 Contact Section | Displays contact information |
-
-| 🎨 CSS Styling | Custom colors, layouts, and styling |
-
-| ♻️ Reusable Components | Separate PHP header and footer files |
+- 🏠 Automotive homepage
+- 🚗 Large automotive hero banner
+- 🧭 Interactive navigation links
+- 💰 Product pricing displays
+- 🎨 Custom dark navy and racing-red design
+- ✨ Hover animations
+- 📱 Responsive mobile-friendly layout
+- ℹ️ About Us section
+- 📞 Customer contact information
+- 🔄 Reusable PHP header and footer components
 
 
 
-\🛠️ Technologies Used
+🛠️ Technologies Used
 
 
 
