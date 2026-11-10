@@ -1,6 +1,6 @@
 \🚗 AutoZone Plus
 
-\### Your One-Stop Shop for Auto Parts!
+\Your One-Stop Shop for Auto Parts!
 
 
 </p>
