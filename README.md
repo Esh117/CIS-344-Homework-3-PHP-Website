@@ -295,15 +295,6 @@ Eshwar Basdeo
 PHP Chapter 5 Assignment
 
 
-
-GitHub: https://github.com/YOUR-USERNAME
-
-
-
-\---
-
-
-
 <p align="center">
 
 &#x20; AutoZone Plus
