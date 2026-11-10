@@ -1,25 +1,25 @@
 🚗 AutoZone Plus
 
-\Your One-Stop Shop for Auto Parts!
+Your One-Stop Shop for Auto Parts!
 
 
 </p>
 
 
 
-\---
+---
 
 
 
-\📌 Homework Overview
+📌 Homework Overview
 
 
 
-\*\*AutoZone Plus\*\* is a simple automotive parts store website developed using PHP, HTML, and CSS.
+AutoZone Plus is a simple automotive parts store website developed using PHP, HTML, and CSS.
 
 
 
-The purpose of this project is to demonstrate how PHP can be used to organize a website into reusable components by separating the header and footer into individual PHP files.
+I will demonstrate how PHP can be used to organize a website into reusable components by separating the header and footer into individual PHP files.
 
 
 
@@ -27,23 +27,19 @@ Instead of writing the same header and footer code on every webpage, PHP's `incl
 
 
 
-This project was created as part of a PHP Chapter 5 assignment.
+🎯 Homework Objectives
 
 
 
-\🎯 Homework Objectives
+- Create a functional PHP webpage.
 
+- Separate the website header and footer into individual files.
 
+- Use PHP `include` statements to reuse website components.
 
-\- Create a functional PHP webpage.
+- Apply CSS styling to improve the website's appearance.
 
-\- Separate the website header and footer into individual files.
-
-\- Use PHP `include` statements to reuse website components.
-
-\- Apply CSS styling to improve the website's appearance.
-
-\- Organize files using a clean project structure.
+- Organize files using a clean project structure.
 
 
 
@@ -53,7 +49,6 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 | Feature | Description |
 
-|---|---|
 
 | 🏠 Homepage | Welcoming introduction to AutoZone Plus |
 
@@ -75,19 +70,19 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 
 
-\- \*\*PHP:\*\* Handles the reusable header and footer components.
+PHP: Handles the reusable header and footer components.
 
-\- \*\*HTML5:\*\* Structures the webpage and its content.
+HTML5: Structures the webpage and its content.
 
-\- \*\*CSS3:\*\* Provides styling, colors, and layout.
+CSS3: Provides styling, colors, and layout.
 
-\- \*\*XAMPP:\*\* Local development environment for running PHP.
+XAMPP: Local development environment for running PHP.
 
-\- \*\*GitHub:\*\* Stores and manages the project files.
+GitHub: Stores and manages the project files.
 
 
 
-\📂 Homework Structure
+📂 Homework Structure
 
 
 
@@ -141,7 +136,7 @@ AutoZonePlus/
 
 
 
-\🚀 How to Run the PHP Website
+🚀 How to Run the PHP Website
 
 
 
@@ -149,7 +144,7 @@ Follow these instructions to run AutoZone Plus on your computer.
 
 
 
-\Step 1: Install XAMPP
+Step 1: Install XAMPP
 
 
 
@@ -161,19 +156,19 @@ https://www.apachefriends.org/
 
 
 
-\Step 2: Start Apache
+Step 2: Start Apache
 
 
 
-1\. Open the XAMPP Control Panel.
+1. Open the XAMPP Control Panel.
 
-2\. Find Apache.
+2. Find Apache.
 
-3\. Click Start.
+3. Click Start.
 
 
 
-\Step 3: Download the Homework Files
+Step 3: Download the Homework Files
 
 
 
@@ -189,11 +184,11 @@ git clone https://github.com/YOUR-USERNAME/AutoZonePlus.git
 
 
 
-Alternatively, download the repository as a ZIP file from GitHub.
+Or you can download the repository as a ZIP file from GitHub.
 
 
 
-\Step 4: Move the Files
+Step 4: Move the Files
 
 
 
@@ -213,7 +208,7 @@ C:\\xampp\\htdocs\\AutoZonePlus
 
 
 
-\Step 5: Open the Website
+Step 5: Open the Website
 
 
 
@@ -232,8 +227,7 @@ http://localhost/AutoZonePlus/index.php
 You should now be able to view the AutoZone Plus homepage.
 
 
-
-\## 🧩 How PHP Include Works
+🧩 How PHP Include Works:
 
 
 
@@ -277,37 +271,33 @@ This allows the header and footer to be reused without duplicating the same code
 
 
 
-
-
-\📚 Learning Outcomes
+📚 Learning Outcomes:
 
 
 
 Through this assigment, I practiced:
 
 
+- Creating and organizing PHP files.
 
-\- Creating and organizing PHP files.
+- Understanding PHP include statements.
 
-\- Understanding PHP include statements.
+- Separating reusable website components.
 
-\- Separating reusable website components.
+- Building a basic webpage using HTML.
 
-\- Building a basic webpage using HTML.
+- Applying CSS to improve website presentation.
 
-\- Applying CSS to improve website presentation.
+- Running PHP projects using XAMPP.
 
-\- Running PHP projects using XAMPP.
-
-\- Managing and uploading project files using GitHub.
-
+- Managing and uploading project files using GitHub.
 
 
-\👨‍💻 Author
+👨‍💻 Author
 
 
 
-\*\*Eshwar Basdeo\*\*
+Eshwar Basdeo
 
 
 
@@ -325,11 +315,11 @@ GitHub: https://github.com/YOUR-USERNAME
 
 <p align="center">
 
-&#x20; \*\*AutoZone Plus\*\*
+&#x20; AutoZone Plus
 
 &#x20; 
 
-&#x20; \*Keeping Your Vehicle Running Smoothly!\*
+&#x20; Keeping Your Vehicle Running Smoothly!
 
 &#x20; 
 
