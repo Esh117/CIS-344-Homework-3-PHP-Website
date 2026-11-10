@@ -3,25 +3,6 @@
 \### Your One-Stop Shop for Auto Parts!
 
 
-
-<p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge\&logo=php\&logoColor=white" alt="PHP">
-
-&#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML5">
-
-&#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" alt="CSS3">
-
-&#x20; <img src="https://img.shields.io/badge/Project-Beginner%20Friendly-success?style=for-the-badge" alt="Beginner Friendly">
-
-</p>
-
-
-
-\---
-
-
-
 \## 📌 Homework Overview
 
 
