@@ -293,18 +293,6 @@ Eshwar Basdeo
 
 
 PHP Chapter 5 Assignment
-
-
-<p align="center">
-
-&#x20; AutoZone Plus
-
-&#x20; 
-
-&#x20; Keeping Your Vehicle Running Smoothly!
-
-&#x20; 
-
 &#x20; © 2026 AutoZone Plus. All Rights Reserved.
 
 </p>
