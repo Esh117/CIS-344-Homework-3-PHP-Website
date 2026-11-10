@@ -1,9 +1,17 @@
-\# 🚗 AutoZone Plus
+\🚗 AutoZone Plus
 
 \### Your One-Stop Shop for Auto Parts!
 
 
-\## 📌 Homework Overview
+</p>
+
+
+
+\---
+
+
+
+\📌 Homework Overview
 
 
 
@@ -23,7 +31,7 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 
 
-\## 🎯 Homework Objectives
+\🎯 Homework Objectives
 
 
 
@@ -39,7 +47,7 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 
 
-\## ✨ Features
+\✨ Features
 
 
 
@@ -63,7 +71,7 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 
 
-\## 🛠️ Technologies Used
+\🛠️ Technologies Used
 
 
 
@@ -79,7 +87,7 @@ This project was created as part of a PHP Chapter 5 assignment.
 
 
 
-\## 📂 Homework Structure
+\📂 Homework Structure
 
 
 
@@ -133,7 +141,7 @@ AutoZonePlus/
 
 
 
-\## 🚀 How to Run the PHP Website
+\🚀 How to Run the PHP Website
 
 
 
@@ -141,7 +149,7 @@ Follow these instructions to run AutoZone Plus on your computer.
 
 
 
-\### Step 1: Install XAMPP
+\Step 1: Install XAMPP
 
 
 
@@ -153,7 +161,7 @@ https://www.apachefriends.org/
 
 
 
-\### Step 2: Start Apache
+\Step 2: Start Apache
 
 
 
@@ -165,7 +173,7 @@ https://www.apachefriends.org/
 
 
 
-\### Step 3: Download the Homework Files
+\Step 3: Download the Homework Files
 
 
 
@@ -185,7 +193,7 @@ Alternatively, download the repository as a ZIP file from GitHub.
 
 
 
-\### Step 4: Move the Files
+\Step 4: Move the Files
 
 
 
@@ -205,7 +213,7 @@ C:\\xampp\\htdocs\\AutoZonePlus
 
 
 
-\### Step 5: Open the Website
+\Step 5: Open the Website
 
 
 
@@ -271,11 +279,11 @@ This allows the header and footer to be reused without duplicating the same code
 
 
 
-\## 📚 Learning Outcomes
+\📚 Learning Outcomes
 
 
 
-Through this project, I practiced:
+Through this assigment, I practiced:
 
 
 
@@ -295,7 +303,7 @@ Through this project, I practiced:
 
 
 
-\## 👨‍💻 Author
+\👨‍💻 Author
 
 
 
