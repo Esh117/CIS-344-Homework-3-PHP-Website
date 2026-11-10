@@ -169,7 +169,7 @@ Clone the repository using Git:
 
 ```bash
 
-git clone https://github.com/YOUR-USERNAME/AutoZonePlus.git
+git clone https://github.com/Esh117/AutoZonePlus.git
 
 ```
 
