@@ -110,12 +110,6 @@ AutoZonePlus/
 
 │
 
-├── screenshots/
-
-│   └── Website screenshots
-
-│
-
 ├── README.md
 
 │   └── Homework documentation
