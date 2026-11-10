@@ -1,4 +1,4 @@
-\🚗 AutoZone Plus
+🚗 AutoZone Plus
 
 \Your One-Stop Shop for Auto Parts!
 
